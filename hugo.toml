@@ -1,0 +1,50 @@
+baseURL = "https://garsus04.com/"
+languageCode = "eu-ru"
+title = "Garsus"
+theme = "github-style"
+googleAnalytics = "UA-123456-789"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  author = "Garsus"
+  description = "Abilmazhan Madiyar"
+  github = "Garsus"
+  facebook = "Мадияр Абильмажан"
+  twitter = "Garsus_04"
+  instagram = "Garsus04"
+  email = "abilmajanmadiar@gmail.com"
+  url = "https://garsus04.com"
+  keywords = "blog, google analytics"
+  rss = true
+  lastmod = true
+  userStatusEmoji = "😀"
+  favicon = "/images/github.png"
+  avatar = "/images/avatar.jpg"
+  headerIcon = "/images/GitHub-Mark-Light-32px.png"
+  location = "Kazakhstan"
+  enableGitalk = true
+
+  [params.gitalk]
+    clientID = "Your client ID"
+    clientSecret = "Your client secret"
+    repo = "repo"
+    owner = "Garsus"
+    admin = "Garsus"
+    id = "location.pathname"
+    labels = "gitalk"
+    perPage = 15
+    pagerDirection = "last"
+    createIssueManually = true
+    distractionFreeMode = false
+
+  [[params.links]]
+    title = "Link"
+    href = "https://github.com/Garsus04"
+  [[params.links]]
+    title = "Link2"
+    href = "https://Garsus04.com"
+    icon = "https://Garsus04.com/images/avatar.jpg"
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]

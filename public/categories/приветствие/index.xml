@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Приветствие on Garsus</title>
+    <link>http://localhost:1313/categories/%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B8%D0%B5/</link>
+    <description>Recent content in Приветствие on Garsus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>eu-ru</language>
+    <lastBuildDate>Tue, 27 Feb 2024 00:23:27 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B8%D0%B5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Garsus</title>
+      <link>http://localhost:1313/post/first/</link>
+      <pubDate>Tue, 27 Feb 2024 00:17:15 +0600</pubDate>
+      <guid>http://localhost:1313/post/first/</guid>
+      <description>HUGO Blog! Первый пост.На Рк 75балл или 90?&#xA;Bye bye? </description>
+    </item>
+  </channel>
+</rss>
